@@ -6,3 +6,5 @@ In this repository there are code developed in STM32-CUBEIDE for the practical i
 Authors: CARAMIA Donato, D'ALESSANDRO Vito Ivano, SOLETI Giovanni, VENEZIA Antonio.
 
 For any questions you could write me at: Donato.caramia97@gmail.com or in DM.
+
+YouTube: https://www.youtube.com/watch?v=29ppwt-oNqY&t=2s
